@@ -2,8 +2,8 @@
 
 Esse repositório foi criado para colocar em prática os conceitos de orientação a objetos com C# do bootcamp Take Blip da Digital Innovation one através de uma aplicação console.
 
-## Descrição do desafio
-Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.
+## Sobre o projeto
+Este projeto teve como objetivo criar um algoritmo simples de cadastro de séries para praticar os conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.
 
 ## Detalhes de implementação
 
