@@ -1,5 +1,7 @@
 # Desafio DIO - Criando um app CRUD para uma biblioteca com C# e .Net
 
+![NPM](https://img.shields.io/npm/l/react)
+
 Esse repositório foi criado para colocar em prática os conceitos de orientação a objetos com C# do bootcamp Take Blip da Digital Innovation one através de uma aplicação console.
 
 # Sobre o projeto
